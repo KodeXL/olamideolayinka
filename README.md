@@ -1,2 +1,2 @@
-# Ola-s_potfolio
-Analytics Potfolio
+# Ola-s_portfolio
+Analytics Portfolio
