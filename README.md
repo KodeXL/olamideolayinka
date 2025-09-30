@@ -45,7 +45,7 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 
 **[View Project →](https://github.com/KodeXL/Data-Science-Project)**
 
----
+---  
 
 ## Experience
 **Compliance Associate** — Renno & Co. (2025)  
@@ -55,8 +55,8 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 ---
 
 ## Education
-- **IBM Data Science Professional Certificate**, Coursera (2025) 
-- **IBM Data Analyst Professional Certificate**, Coursera (2024)  
+- **[IBM Data Science Professional Certificate](https://coursera.org/share/e417bd4c4d0c262ebc337f34a198ea7a)**, Coursera (2025) 
+- **[IBM Data Analyst Professional Certificate](https://coursera.org/share/28fa2967e5b2c6b9621a3f2912f1587a)**, Coursera (2024)  
 - **BEng, Mechanical Engineering**, Carleton University (2017)  
 
 ---
