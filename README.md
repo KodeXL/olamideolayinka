@@ -54,7 +54,7 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 
 ---  
 
-## Experience
+## Work Experience
 **Compliance Associate** — Renno & Co. (2025)  
 **Fraud Data Specialist** — Alterna (2021–2025)  
 **Fraud Detection Analyst** — TD (2019–2020)  
