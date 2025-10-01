@@ -26,7 +26,7 @@ I have developed interactive dashboards, automated transaction monitoring workfl
 
 ## Projects
 
-### Ottawa Shooting Incidents (2018–2024)
+### 📊 Ottawa Shooting Incidents (2018–2024)
 Interactive Dash app with MySQL backend analyzing firearm-related incidents by time, injury severity, and neighborhood.  
 - Built ETL pipeline to clean and load city data  
 - Developed a 2x2 grid dashboard with stacked bar and line charts  
@@ -36,7 +36,7 @@ Interactive Dash app with MySQL backend analyzing firearm-related incidents by t
 
 ---
 
-### SpaceX Falcon 9 First-Stage Landing Prediction  
+### 🚀 SpaceX Falcon 9 First-Stage Landing Prediction  
 Machine learning project predicting the success of Falcon 9 booster landings using launch and payload data.  
 - Collected and cleaned launch data using Python and SQL  
 - Performed exploratory data analysis to identify key drivers of landing success  
