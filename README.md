@@ -1,5 +1,3 @@
-# Olamide Olayinka
-
 📍 Ottawa, ON  
 📞 613-600-4186  
 📧 [olamideolayinka@cmail.carleton.ca](mailto:olamideolayinka@cmail.carleton.ca)  
