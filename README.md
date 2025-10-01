@@ -1,7 +1,6 @@
 # Data Analytics Portfolio
 
-📍 Ottawa, ON  
-📞 613-600-4186  
+📍 Ottawa, ON   
 📧 [olamideolayinka@cmail.carleton.ca](mailto:olamideolayinka@cmail.carleton.ca)  
 💼 [LinkedIn](https://www.linkedin.com/in/olamide-olayinka-a8222518/)  
 📊 [GitHub](https://github.com/KodeXL)
