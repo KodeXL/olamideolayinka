@@ -8,6 +8,13 @@
 
 ---
 
+## Education
+- **[IBM Data Science Professional Certificate](https://coursera.org/share/e417bd4c4d0c262ebc337f34a198ea7a)**, Coursera (2025) 
+- **[IBM Data Analyst Professional Certificate](https://coursera.org/share/28fa2967e5b2c6b9621a3f2912f1587a)**, Coursera (2024)  
+- **BEng, Mechanical Engineering**, Carleton University (2017)  
+
+---
+
 ## About Me
 I am a data professional with expertise in data science, fraud detection, AML policy design, and financial crime analytics. I work with databases, Python, and visualization tools to transform raw data into clear, actionable insights. My experience bridges compliance, fraud prevention, and applied data and machine learning projects.
 
@@ -51,13 +58,6 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 **Compliance Associate** — Renno & Co. (2025)  
 **Fraud Data Specialist** — Alterna (2021–2025)  
 **Fraud Detection Analyst** — TD (2019–2020)  
-
----
-
-## Education
-- **[IBM Data Science Professional Certificate](https://coursera.org/share/e417bd4c4d0c262ebc337f34a198ea7a)**, Coursera (2025) 
-- **[IBM Data Analyst Professional Certificate](https://coursera.org/share/28fa2967e5b2c6b9621a3f2912f1587a)**, Coursera (2024)  
-- **BEng, Mechanical Engineering**, Carleton University (2017)  
 
 ---
 
