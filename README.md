@@ -30,6 +30,20 @@ I have developed interactive dashboards, automated transaction monitoring workfl
 
 ---
 
+### 💳 Credit Card Fraud Detection (Machine Learning)
+Supervised machine learning project identifying fraudulent transactions within a highly imbalanced dataset.
+- Processed 284K+ anonymized transactions with PCA-transformed features
+- Scaled only Time (RobustScaler) and Amount (StandardScaler) to preserve PCA integrity
+- Balanced data using SMOTE oversampling and Random Undersampling to improve minority-class representation
+- Trained and evaluated models (Logistic Regression, Random Forest, SVM, Decision Tree) across imbalanced and balanced datasets
+- Observed that accuracy decreased on both balanced experiments compared to the imbalanced dataset — a natural result of reducing the dominance of the majority (non-fraud) class; however, recall and ROC AUC significantly improved, indicating a stronger ability to detect actual fraud
+- Achieved ROC-AUC of 1.00 with Random Forest on SMOTE-balanced data, demonstrating near-perfect fraud identification while maintaining generalization
+- Visualized and interpreted model performance using ROC curves and confusion matrices
+
+[View Project →](https://github.com/kodexl/CreditCardFraudDetection)
+
+---
+
 ## Projects
 
 ### 📊 Ottawa Shooting Incidents (2018–2024)
