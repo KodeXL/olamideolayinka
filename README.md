@@ -63,7 +63,8 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 - Built and compared models (Logistic Regression, Decision Tree, SVM) with ROC-AUC evaluation  
 - Developed interactive Plotly Dash dashboard to visualize launch outcomes by payload, orbit, and site  
 
-**[Web Application →](https://spacex-booster-landing-results.onrender.com/)
+**[Web Application →](https://spacex-booster-landing-results.onrender.com/)**
+
 **[View Project →](https://github.com/KodeXL/Data-Science-Project)**
 
 ---  
