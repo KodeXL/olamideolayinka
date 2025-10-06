@@ -76,8 +76,9 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 
 ---
 
-## Contact
+## 💡 Let’s Connect
+🔗 [LinkedIn](https://www.linkedin.com/in/olamideolayinka/)  
+📊 [Github](https://github.com/KodeXL)  
 📧 [olamideolayinka@cmail.carleton.ca](mailto:olamideolayinka@cmail.carleton.ca)  
-🔗 [LinkedIn](https://www.linkedin.com/in/olamide-olayinka-a8222518/)  
 
 
