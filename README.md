@@ -42,7 +42,7 @@ Supervised machine learning project identifying fraudulent transactions within a
 - The Undersampled balanced Logistic Regression and Linear SVC delivered consistently high recall and ROC-AUC without overfitting, making them more reliable for real-world use.
 - Visualized and interpreted model performance using ROC and confusion matrices
 
-[View Project →](https://github.com/kodexl/CreditCardFraudDetection)
+**[View Project →](https://github.com/kodexl/CreditCardFraudDetection)**
 
 ---
 
