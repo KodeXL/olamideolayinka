@@ -50,7 +50,9 @@ Supervised machine learning project identifying fraudulent transactions within a
 Interactive Dash app with MySQL backend analyzing firearm-related incidents by time, injury severity, and neighborhood.  
 - Built ETL pipeline to clean and load city data  
 - Developed a 2x2 grid dashboard with stacked bar and line charts  
-- Added dynamic filtering for injury severity and year of incident 
+- Added dynamic filtering for injury severity and year of incident
+
+**[Web Application →](https://ottawa-shooting-incidents-data-analysis.onrender.com/)**
 
 **[View Project →](https://github.com/KodeXL/Ottawa-Shootings)**
 
