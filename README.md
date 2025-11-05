@@ -69,7 +69,7 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 
 **[Web Application →](https://spacex-booster-landing-results.onrender.com/)**
 
-**[Presentation →](https://github.com/KodeXL/Data-Science-Project)**
+**[Presentation →](https://github.com/KodeXL/Data-Science-Project/blob/main/Presentation/ds-capstone-template-coursera.pdf)**
 
 ---  
 
