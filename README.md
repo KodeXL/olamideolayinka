@@ -56,7 +56,7 @@ Interactive data visualization dashboard to analyze and track over five years of
 
 **[Web Application →](https://ottawa-shooting-incidents-data-analysis.onrender.com/)**
 
-**[View Project →](https://github.com/KodeXL/Ottawa-Shootings)**
+**[Presentation →](https://github.com/KodeXL/Ottawa-Shootings/blob/main/presentation/Ottawa%20Shootings%20Presentation.pdf)**
 
 ---
 
@@ -69,7 +69,7 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 
 **[Web Application →](https://spacex-booster-landing-results.onrender.com/)**
 
-**[View Project →](https://github.com/KodeXL/Data-Science-Project)**
+**[Presentation →](https://github.com/KodeXL/Data-Science-Project)**
 
 ---  
 
