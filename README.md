@@ -48,7 +48,7 @@ Supervised machine learning project identifying fraudulent transactions within a
 
 ### 📊 Ottawa Shooting Incidents (2018–2024)
 **Tools: Python, Dash, Plotly Express, MySQL, Pandas, CSS**
-Interactive data visualization dashboard to analyze and track over five years of public-safety data on firearm-related incidents in Ottawa. The app connects to a MySQL database, aggregates trends by year, ward, and severity, and displays insights through dynamic charts and map visualizations.
+Interactive data visualization dashboard to analyze and track six years of public-safety data on firearm-related incidents in Ottawa. The app connects to a MySQL database, aggregates trends by year, ward, and severity, and displays insights through dynamic charts and map visualizations.
 - Designed a multi-page Dash interface with responsive layouts and custom CSS for mobile optimization.
 - Integrated callback filters for outcome severity and yearly comparisons to uncover shooting trends and spatial patterns.
 - Developed charts for efficient data retrieval and aggregation, enabling granular views of incident counts and injuries.
