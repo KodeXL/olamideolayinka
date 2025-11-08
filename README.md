@@ -3,7 +3,7 @@
 📍 Ottawa, ON   
 💼 [LinkedIn](https://www.linkedin.com/in/olamide-olayinka-a8222518/) 
 📊 [GitHub](https://github.com/KodeXL)
-📧 [Email](mailto:olamideolayinka@cmail.carleton.ca) 
+📧 [Email](olamideolayinka@cmail.carleton.ca) 
 
 ---
 
