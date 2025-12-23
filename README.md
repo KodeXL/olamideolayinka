@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-📍 Ottawa, ON   
+📍 Red Deer, AB   
 💼 [LinkedIn](https://www.linkedin.com/in/olamide-olayinka-a8222518/) 
 📊 [GitHub](https://github.com/KodeXL)
 📧 [Email](mailto:olamideolayinka@cmail.carleton.ca) 
