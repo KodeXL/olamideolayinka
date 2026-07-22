@@ -54,7 +54,7 @@ Interactive data visualization dashboard to analyze and track six years of publi
 - Developed charts for efficient data retrieval and aggregation, enabling granular views of incident counts and injuries.
 - Deployed the app publicly via Render, demonstrating technical depth in Python-based analytics and civic data storytelling.
 
-**[Web Application →](https://ottawa-shooting-incidents-data-analysis.onrender.com/)**
+**[Web Application →](https://ottawa-shootings.onrender.com/)**
 
 **[Presentation →](https://github.com/KodeXL/Ottawa-Shootings/blob/main/presentation/Ottawa%20Shootings%20Presentation.pdf)**
 
@@ -67,7 +67,7 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 - Built and compared models (Logistic Regression, Decision Tree, SVM) with ROC-AUC evaluation  
 - Developed interactive Plotly Dash dashboard to visualize launch outcomes by payload, orbit, and site  
 
-**[Web Application →](https://spacex-booster-landing-results.onrender.com/)**
+**[Web Application →](https://spacex-booster-landing.onrender.com/)**
 
 **[Presentation →](https://github.com/KodeXL/Data-Science-Project/blob/main/Presentation/ds-capstone-template-coursera.pdf)**
 
