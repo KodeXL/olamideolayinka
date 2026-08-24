@@ -75,10 +75,10 @@ Machine learning project predicting the success of Falcon 9 booster landings usi
 
 ## Work Experience
 
-**Associate, Fraud Associate** — Wealthsimple (2026-Present)
-**Compliance Associate** — Renno & Co. (2025)
-**Fraud Data Specialist** — Alterna (2021–2025)  
-**Fraud Detection Analyst** — TD (2019–2020)  
+- **Associate, Fraud Associate** — Wealthsimple (2026-Present)
+- **Compliance Associate** — Renno & Co. (2025)
+- **Fraud Data Specialist** — Alterna (2021–2025)  
+- **Fraud Detection Analyst** — TD (2019–2020)  
 
 ---
 
