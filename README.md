@@ -22,11 +22,11 @@ I have developed interactive dashboards, automated transaction monitoring workfl
 ---
 
 ## Skills
-- **Programming & Analysis**: Python (Pandas, Scikit-Learn, Plotly/Dash, NumPy, Jupyter Notbooks), SQL (MySQL, IBM Db2)  
-- **Visualization & Reporting**: Excel, Dash, Plotly Express, Matplotlib, IBM Cognos Analytics  
-- **Data Tools**: VS Code, MySQL, Excel.
-- **Fraud & Compliance**: Verafin, LexisNexis ThreatMetrix, Falcon, VCas, TSYS  
-- **Other**: HTML/CSS, AML/CTF policy design, regulatory compliance  
+- **Programming & Analysis**: Python (Pandas, Scikit-Learn, Plotly/Dash, NumPy, Jupyter Notebooks), SQL (MySQL, IBM Db2, Amazon Redshift), Data Wrangling and Preprocessing, Machine Learning (Predictive Modelling, Classification, Clustering, Model Evaluation)
+- **Visualization & Reporting**: Excel, Dash, Plotly Express, Matplotlib, Seaborn, IBM Cognos Analytics, Preset (Apache Superset)
+- **Data Tools**: VS Code, MySQL, Excel, Amazon Redshift
+- **Fraud & Compliance**: Verafin, LexisNexis ThreatMetrix, Falcon, VCas, TSYS, Interac e-Transfer OAS, Enterprise Fraud Management/Fraud Alert Services (EFM/FAS), Account Fraud Detection and Investigation
+- **Other**: HTML/CSS, AML/CTF Policy Design, Regulatory Compliance
 
 ---
 
